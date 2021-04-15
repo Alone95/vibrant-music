@@ -22,7 +22,7 @@
           </div>
         </div>
         <div class="menu">
-          <div class="link" @click="toQier222">COLLECTED BY Alone95</div>
+          <div class="link">COLLECTED BY Alone95</div>
         </div>
       </div>
       <div class="bottom">
