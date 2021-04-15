@@ -8,11 +8,11 @@
       v-show="playlist.showGrey !== undefined ? playlist.showGrey : true"
     ></div>
     <div class="stay-vibrant" v-show="!showInfo && clickPlay && !isMobile">
-      <span @click="doShowInfo">STAY VIBRANT</span>
+      <span @click="doShowInfo">LIFE IS FUN HAVE A NICE DAY</span>
     </div>
     <div class="info" v-show="showInfo || (isMobile && clickPlay)">
       <div class="top">
-        <div class="title">STAY VIBRANT</div>
+        <div class="title">LIFE IS FUN HAVE A NICE DAY</div>
         <div class="video-info">
           <div class="title link" @click="toYouTube">
             {{ playlist.title }}
@@ -22,7 +22,7 @@
           </div>
         </div>
         <div class="menu">
-          <div class="link" @click="toQier222">COLLECTED BY QIER222</div>
+          <div class="link" @click="toQier222">COLLECTED BY Alone95</div>
         </div>
       </div>
       <div class="bottom">

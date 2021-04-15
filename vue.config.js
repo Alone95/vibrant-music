@@ -1,6 +1,6 @@
 module.exports = {
   pwa: {
-    name: "STAY VIBRANT",
+    name: "LIFE IS FUN HAVE A NICE DAY",
     iconPaths: {
       favicon32: "img/icons/favicon-32x32.png",
     },
@@ -17,7 +17,7 @@ module.exports = {
       entry: "src/main.js",
       template: "public/index.html",
       filename: "index.html",
-      title: "STAY VIBRANT",
+      title: "LIFE IS FUN HAVE A NICE DAY",
       chunks: ["chunk-vendors", "chunk-common", "index"],
     },
   },
