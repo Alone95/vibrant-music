@@ -2,7 +2,7 @@ export default [
   {
     title: "Elevate (Official Lyric Video)",
     subtitle: "Vicetone",
-    videos: ["qotZ8jdjFTw"]
+    videos: ["qotZ8jdjFTw"],
   },
   {
     title: "Secret Sky [mixed feelings 1]",
